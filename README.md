@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @bananaakula
+- 👀 I’m interested in DevOps practices. Generally, I'm a DevOps Engineer.
+- 🌱 I’m currently learning to work with k8s in production. Hopefully, it works fine.
